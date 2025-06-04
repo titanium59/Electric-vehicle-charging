@@ -93,7 +93,7 @@ The frontend will run at [http://localhost:8080](http://localhost:8080).
 
 ## 🧑‍💻 Default Owner Credentials (from seed)
 
-- **Username:** utsav
+- **Username:** use seeded username
 - **Password:** (see your database, as it's hashed)
 
 ---
